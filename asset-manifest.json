@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-router-app/static/css/main.8015a105.chunk.css",
+    "main.js": "/react-router-app/static/js/main.9da5aa26.chunk.js",
+    "main.js.map": "/react-router-app/static/js/main.9da5aa26.chunk.js.map",
+    "runtime~main.js": "/react-router-app/static/js/runtime~main.1f157a88.js",
+    "runtime~main.js.map": "/react-router-app/static/js/runtime~main.1f157a88.js.map",
+    "static/js/2.474835f3.chunk.js": "/react-router-app/static/js/2.474835f3.chunk.js",
+    "static/js/2.474835f3.chunk.js.map": "/react-router-app/static/js/2.474835f3.chunk.js.map",
+    "index.html": "/react-router-app/index.html",
+    "precache-manifest.94bee8d4218f6249d136b78fbb349815.js": "/react-router-app/precache-manifest.94bee8d4218f6249d136b78fbb349815.js",
+    "service-worker.js": "/react-router-app/service-worker.js",
+    "static/css/main.8015a105.chunk.css.map": "/react-router-app/static/css/main.8015a105.chunk.css.map"
+  }
+}
